@@ -1,0 +1,8 @@
+add_user Abhishek M 23
+add_user Rahul M 29
+add_user Nandini F 22
+add_driver Driver1 M 22 Swift KA-01-12345 10 1
+add_driver Driver2 M 29 Swift KA-01-12345 11 10
+add_driver Driver3 M 24 Swift KA-01-12345 5 3
+find_ride Abhishek 0 0 20 1
+find_ride Rahul 10 0 15 3
